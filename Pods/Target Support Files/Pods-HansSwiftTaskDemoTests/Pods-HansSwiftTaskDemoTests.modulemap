@@ -1,0 +1,6 @@
+framework module Pods_HansSwiftTaskDemoTests {
+  umbrella header "Pods-HansSwiftTaskDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
